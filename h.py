@@ -6,9 +6,9 @@ name is a'''
 print(string)
 
 
-print(range(10))
+print(range(100))
 
-for x in range(20):
+for x in range(100):
 	print(x)
 
 
