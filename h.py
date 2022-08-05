@@ -8,7 +8,7 @@ print(string)
 
 print(range(100))
 
-for x in range(100):
+for x in range(10):
 	print(x)
 
 
